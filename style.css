@@ -401,9 +401,9 @@ html {
     float: right;
     margin-right: 100px;
     margin-top: -60px;
-    transition: .3s;
+    transition: color .3s ease;
     user-select: none;
-    color: #fff;
+    color: #fff; 
 }
 
 .watermark a:hover {
