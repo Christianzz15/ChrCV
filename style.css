@@ -46,7 +46,7 @@
 .home {
     height: 100vh;
     background: linear-gradient(-90deg, 
-    #031540 65%, #fff 35%);
+    #031540 65vw, #fff 35vw);
     display: flex;
     justify-content: space-between;
     align-items: center;
