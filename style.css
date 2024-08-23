@@ -43,10 +43,16 @@
     color: cyan;
 }
 
-.home {
+.container {
     height: 100vh;
-    background: linear-gradient(-90deg, 
-    #031540 65vw, #fff 35vw);
+    background: linear-gradient(90deg, #fff 32vw, #031540 0);
+    position: absolute;
+    width: 100%;
+}
+
+    
+.home {
+    margin-top: 120px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -127,7 +133,6 @@
 
 .home-content p {
     font-size: 16px ;
-    font-weight: 600;
     margin-top: 20px;
     -webkit-text-stroke: 1px #031540;
 }
