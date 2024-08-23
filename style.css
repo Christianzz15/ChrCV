@@ -24,18 +24,20 @@
     font-size: 25px;
     color: black;
     text-decoration: none;
-    font-weight: 700 ;
+    font-weight: 800 ;
     user-select: none;
     pointer-events: none;
+    -webkit-text-stroke: 1px #fff;
 }
 
 .navbar a {
     font-size: 18px;
     color: white;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 700;
     margin-left: 35px;
     transition: .3s;
+    -webkit-text-stroke: 1px #031540;
 }
 
 .navbar a:hover,
@@ -49,6 +51,7 @@
     position: absolute;
     width: 100%;
 }
+
     
 .home {
     margin-top: 120px;
@@ -93,7 +96,7 @@
     max-width: 600px;
     color: white;
     text-align: right;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .home-content h1 {
