@@ -45,7 +45,7 @@
 }
 
 .container {
-    min-height: 100vh;
+    min-height: 850px;
     background: linear-gradient(90deg, #fff 32vw, #031540 0);
     width: 100%;
     padding: 120px 10% 60px; /* Padding atas menggantikan margin-top pada .home */
