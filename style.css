@@ -128,6 +128,7 @@
 .home-content p {
     font-size: 16px ;
     margin-top: 20px;
+    -webkit-text-stroke: .4px #031540;
 }
 .home-sci {
     margin: 25px 0 40px;
