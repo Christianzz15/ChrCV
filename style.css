@@ -27,7 +27,7 @@
     font-weight: 800 ;
     user-select: none;
     pointer-events: none;
-    -webkit-text-stroke: 1px #fff;
+    -webkit-text-stroke: .7px #fff;
 }
 
 .navbar a {
@@ -37,7 +37,7 @@
     font-weight: 700;
     margin-left: 35px;
     transition: .3s;
-    -webkit-text-stroke: 1px #031540;
+    -webkit-text-stroke: .7px #031540;
 }
 
 .navbar a:hover,
