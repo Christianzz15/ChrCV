@@ -24,7 +24,7 @@
     font-size: 25px;
     color: black;
     text-decoration: none;
-    font-weight: 800 ;
+    font-weight: 800;
     user-select: none;
     pointer-events: none;
     -webkit-text-stroke: .7px #fff;
@@ -46,7 +46,7 @@
 }
 
 .container {
-    height: 600px;
+    height: 700px;
     background: linear-gradient(90deg, #fff 32vw, #031540 0);
     position: absolute;
     width: 100%;
@@ -93,7 +93,7 @@
 }
 
 .home-content {
-    max-width: 500px;
+    max-width: 600px;
     color: white;
     text-align: right;
     margin-top: 30px;
