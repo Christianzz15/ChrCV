@@ -96,6 +96,7 @@
     line-height: 1.2;
     user-select: none;
     pointer-events: none;
+    -webkit-text-stroke: 1px #031540;
 }
 
 .home-content h3 {
